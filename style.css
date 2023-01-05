@@ -71,6 +71,7 @@ button:focus {
 .social-links {
     width: 80%;
     height: auto;
+    margin-bottom: 250px;
 }
 
 .social-links ul {
@@ -93,4 +94,13 @@ button:focus {
 
 .social-links ul li button:hover {
     background-color: #0048ff;
+}
+.rodape {
+    color: #fff;
+    font-size: 15px;
+}
+
+.rodape a {
+    text-decoration: none;
+    color: #fff;
 }
